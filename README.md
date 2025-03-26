@@ -96,10 +96,7 @@ This project is open source. See the `LICENSE` file for details.
 - [ ] Add sound effects
 - [ ] Implement difficulty levels
 - [ ] Create more complex map generation
-- [ ] Add multiplayer functionality
 
 ## Credits
-Created by [Your Name/Team Name]
-
-## Support
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/yourusername/nautilus-submarine-game/issues).
+- Inspired by Jules Verne.
+- The Nautilus image was created by me with this tool: https://www.piskelapp.com/
