@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Submarine Game</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="game-container">
+      <canvas id="navigation-deck" width="800" height="300"></canvas>
+      <div id="controls">
+        <div id="depth-control">
+          <label for="depth-slider">Depth</label>
+          <input type="range" id="depth-slider" min="0" max="100" value="50" />
+        </div>
+        <div id="nav-control">
+          <label for="nav-slider">Steering</label>
+          <input type="range" id="nav-slider" min="-100" max="100" value="0" />
+        </div>
+        <div id="speed-control">
+          <label for="speed-slider">Speed</label>
+          <input
+            type="range"
+            id="speed-slider"
+            min="0"
+            max="2"
+            step="0.1"
+            value="1" />
+        </div>
+      </div>
+      <canvas id="side-view" width="800" height="200"></canvas>
+      <canvas id="map-view" width="800" height="200"></canvas>
+    </div>
+    <script src="navigationDeck.js"></script>
+    <script src="sideView.js"></script>
+    <script src="mapView.js"></script>
+    <script src="game.js"></script>
+  </body>
+</html>
