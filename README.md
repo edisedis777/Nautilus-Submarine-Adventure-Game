@@ -4,7 +4,7 @@
 
 Nautilus is an interactive submarine exploration game where players navigate a submarine through challenging oceanic environments, managing resources, and attempting to reach the Santorini Cave.
 
-![Screenshot 2025-03-26 at 12 41 54](https://github.com/user-attachments/assets/4cda3517-f052-460c-956c-ef1794b8d12e)
+![Screenshot](https://github.com/user-attachments/assets/4cda3517-f052-460c-956c-ef1794b8d12e)
 
 
 ## Game Mechanics
@@ -51,8 +51,8 @@ The game features three main sliders:
 ## Technical Details
 
 ### Technologies Used
-- Vanilla JavaScript
-- HTML5 Canvas
+- JavaScript
+- HTML5
 - CSS3 for styling and layout
 
 ### Game Classes
@@ -61,14 +61,6 @@ The game features three main sliders:
 - `MapView`: Renders top-down map and tracks submarine position
 - `Rock`: Represents map obstacles and the Santorini Cave
 
-## Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/nautilus-submarine-game.git
-```
-
-2. Open `index.html` in a modern web browser
 
 ## Development
 
@@ -89,10 +81,7 @@ Simply open the `index.html` file in your browser. No additional setup required.
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is open source. See the `LICENSE` file for details.
-
-## Future Roadmap
+## Roadmap
 - [ ] Add sound effects
 - [ ] Implement difficulty levels
 - [ ] Create more complex map generation
@@ -100,3 +89,6 @@ This project is open source. See the `LICENSE` file for details.
 ## Credits
 - Inspired by Jules Verne.
 - The Nautilus image was created by me with this tool: https://www.piskelapp.com/
+
+## License
+This project is open source. See the `LICENSE` file for details.
