@@ -4,7 +4,6 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Overview
 
@@ -97,4 +96,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - The Nautilus image was created by me with this tool: https://www.piskelapp.com/
 
 ## License
-This project is open source. See the `LICENSE` file for details.
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
